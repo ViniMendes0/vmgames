@@ -27,7 +27,7 @@ const LandingPage = () => {
 
         {/* Texto */}
         <h1 className="text-3xl font-bold mt-4">VM GAMES</h1>
-        <p className="text-lg mt-2">SEJAM BEM-VINDOS À SUA NOVA LOJA DE GAMES.  <span className="text-yellow-500"> QUALQUER JOGO CUSTA APENAS 5,00 REAIS</span></p>
+        <p className="text-lg mt-2">SITE DE REPOSITORIO DE JOGOS.  <span className="text-yellow-500"> SEJA BEM VINDO(A)</span></p>
 
         {/* Seta animada */}
         <div className="mt-8 animate-bounce flex justify-center">

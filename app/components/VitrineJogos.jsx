@@ -41,7 +41,7 @@ export default function VitrineJogos() {
   href={`${produto.whatszap}&text=${mensagemWhatsApp}`}
   target="_blank"
   rel="noopener noreferrer"
-  className="inline-block bg-green-500 text-white py-2 px-4 rounded-lg mt-4 hover:bg-green-600 transition"
+  className="inline-block bg-blue-500 text-white py-2 px-4 rounded-lg mt-4 hover:bg-green-600 transition"
 >
   Link do jogo
 </a>
