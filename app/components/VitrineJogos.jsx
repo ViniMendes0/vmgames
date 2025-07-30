@@ -43,7 +43,7 @@ export default function VitrineJogos() {
   rel="noopener noreferrer"
   className="inline-block bg-green-500 text-white py-2 px-4 rounded-lg mt-4 hover:bg-green-600 transition"
 >
-  Chamar no WhatsApp
+  Link do jogo
 </a>
 
             </div>
