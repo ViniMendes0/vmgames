@@ -58,10 +58,10 @@ const LandingPage = () => {
           <img src="/vm.png" alt="Logo Roberto Móveis" className="w-full h-full object-cover" />
         </div>
 
-        <h1 className="text-3xl font-bold mt-4">VM GAMES</h1>
+        <h1 className="text-3xl font-bold mt-4">Este site não hospeda, armazena ou distribui diretamente qualquer tipo de arquivo. Todos os links disponibilizados são magnet links, que servem apenas como identificadores de conteúdo utilizados em redes peer-to-peer (P2P). Esses links são agregados a partir de fontes públicas e de terceiros .</h1>
         <p className="text-lg mt-2">
           SITE DE REPOSITÓRIO DE JOGOS.{" "}
-          <span className="text-yellow-500">Este site não hospeda, armazena ou distribui diretamente qualquer tipo de arquivo. Todos os links disponibilizados são magnet links, que servem apenas como identificadores de conteúdo utilizados em redes peer-to-peer (P2P). Esses links são agregados a partir de fontes públicas e de terceiros .</span>
+          <span className="text-yellow-500"></span>
         </p>
 
         <div className="mt-8 animate-bounce flex justify-center">
