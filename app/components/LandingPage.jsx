@@ -61,7 +61,7 @@ const LandingPage = () => {
         <h1 className="text-3xl font-bold mt-4">VM GAMES</h1>
         <p className="text-lg mt-2">
           SITE DE REPOSITÓRIO DE JOGOS.{" "}
-          <span className="text-yellow-500">SEJA BEM-VINDO(A)</span>
+          <span className="text-yellow-500">Este site não hospeda, armazena ou distribui diretamente qualquer tipo de arquivo. Todos os links disponibilizados são magnet links, que servem apenas como identificadores de conteúdo utilizados em redes peer-to-peer (P2P). Esses links são agregados a partir de fontes públicas e de terceiros .</span>
         </p>
 
         <div className="mt-8 animate-bounce flex justify-center">
